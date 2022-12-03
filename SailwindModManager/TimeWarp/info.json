@@ -1,0 +1,12 @@
+{
+  "Id": "TimeWarp",
+  "DisplayName": "Time Warp",
+  "Author": "Antonoviich",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.24.0.0",
+  "AssemblyName": "TimeWarp.dll",
+  "EntryMethod": "TimeWarp.Main.Load",
+  "Description": "Speeds up game speed",
+  "Tags": ["Gameplay"],
+  "Requirements": []
+}
