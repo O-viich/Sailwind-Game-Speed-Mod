@@ -9,7 +9,7 @@ namespace TimeWarp
 {
     public class TimeWarpSettings : UnityModManager.ModSettings
     {
-        public float GameSpeed = 7f;
+        public float GameSpeed = 1f;
 
         public override void Save(UnityModManager.ModEntry modEntry)
         {
