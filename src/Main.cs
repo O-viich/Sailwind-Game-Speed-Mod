@@ -42,6 +42,7 @@ namespace TimeWarp
             if (GUILayout.Button("Reset Game Speed", GUILayout.ExpandWidth(false)))
             {
                 settings.GameSpeed = 1f;
+                Time.timeScale = 1f;
             }
             GUILayout.EndHorizontal();
         }
